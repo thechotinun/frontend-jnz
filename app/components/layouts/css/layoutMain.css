@@ -1,0 +1,11 @@
+.box-logo {
+    height: 100px;
+    padding: 10px 7px 10px 10px;
+}
+
+@media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+    .box-logo {
+        display: none;
+    }
+  }
